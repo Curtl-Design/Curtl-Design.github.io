@@ -194,11 +194,11 @@ input[type=text] {
 }
 
 .row {
-  display: flex;
+  align-items: center;
   flex-flow: row wrap;
   justify-content: space-between;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
 }
 
 .row > :first-child {
