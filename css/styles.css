@@ -3,6 +3,8 @@
     color: #202020;
 }
 
+
+
 .nav {
     position: relative;
     display: flex;
@@ -91,4 +93,7 @@
     font-weight: 200;
 }
 
-
+.content {
+  font-size: 1.8rem;
+  color: #363636;
+}
