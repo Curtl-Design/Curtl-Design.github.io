@@ -118,8 +118,8 @@
 
 .center-button {
     display: flex;
-    justify-content: center; /* align horizontal */
-    align-items: center; /* align vertical */
+    justify-content: center;
+    align-items: center;
     margin-top: 60px;
     margin-bottom: 60px
 
