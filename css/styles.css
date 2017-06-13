@@ -102,3 +102,25 @@
   font-size: 1.8rem;
   color: #363636;
 }
+
+.page-header-image {
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+    margin-top: 60px;
+    margin-bottom: 60px
+
+}
+
+.header {
+    color: #363636;
+}
+
+.center-button {
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+    margin-top: 60px;
+    margin-bottom: 60px
+
+}
