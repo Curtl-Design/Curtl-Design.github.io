@@ -197,8 +197,8 @@ input[type=text] {
   align-items: center;
   flex-flow: row wrap;
   justify-content: space-between;
-  margin-top: 0rem;
-  margin-bottom: 0rem;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
 }
 
 .row > :first-child {
